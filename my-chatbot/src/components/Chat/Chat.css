@@ -1,0 +1,32 @@
+input.webchat__send-box-text-box__input {
+  margin-top: 5px;
+  background: rgb(224, 233, 239) !important;
+  padding: 5px 15px !important;
+  border-radius: 6px !important;
+}
+button.webchat__suggested-action.webchat--css-dzhbn-12ui717.webchat--css-dzhbn-i9hwkg.webchat__suggested-actions__button{
+  width: 0px !important;
+}
+.webchat--css-erkku-e73j6q.webchat__adaptive-card-renderer .ac-pushButton[aria-disabled="true"]{
+  cursor: not-allowed !important;
+}
+.chat{
+    display: flex;
+    min-height: 85vh;
+}
+.webchat__bubble__content {
+  text-align: left !important;
+  padding: 5px;
+}
+.webchat--css-mavyx-e73j6q.webchat__adaptive-card-renderer *{
+  border-radius: 5px !important;
+}
+.webchat--css-dsuds-3zq00.webchat__suggested-action{
+  white-space: break-spaces !important;
+  text-align: left !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+.webchat--css-dsuds-1bwrjwc.webchat__suggested-actions.webchat__suggested-actions--flow-layout .webchat__suggested-actions__flow-item-box{
+  max-width: 10% !important;
+}

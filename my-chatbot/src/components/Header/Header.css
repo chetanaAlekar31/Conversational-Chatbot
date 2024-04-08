@@ -1,0 +1,15 @@
+.Header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3rem;
+  padding: 1em;
+  /* margin-bottom: 2em; */
+  background: linear-gradient(90deg, #C9256B 37.5%, #74107C 100%);;
+  color: rgb(19, 18, 18);
+}
+.name-icon {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
